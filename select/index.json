@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "dress up",
+  "base_artist": "PLUE",
+  "createdAt": "2025-12-16T18:29:34.078208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dress Up in You",
+      "artist": "Belle and Sebastian",
+      "has_synced": true,
+      "path": "select/01_Dress_Up_in_You_Belle_and_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dress Up In You",
+      "artist": "Belle & Sebastian",
+      "has_synced": true,
+      "path": "select/02_Dress_Up_In_You_Belle_&_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "You Dress Up For Armageddon",
+      "artist": "The Hives",
+      "has_synced": true,
+      "path": "select/03_You_Dress_Up_For_Armageddon_The_Hives.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dress Up In You",
+      "artist": "God Help the Girl",
+      "has_synced": true,
+      "path": "select/04_Dress_Up_In_You_God_Help_the_Girl.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dress Up",
+      "artist": "Sleepy Brown",
+      "has_synced": false,
+      "path": "select/05_Dress_Up_Sleepy_Brown.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dress Up",
+      "artist": "Kiss Kiss",
+      "has_synced": true,
+      "path": "select/06_Dress_Up_Kiss_Kiss.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dress Up",
+      "artist": "The Regrettes",
+      "has_synced": true,
+      "path": "select/07_Dress_Up_The_Regrettes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "DRESS UP",
+      "artist": "chloe moriondo",
+      "has_synced": true,
+      "path": "select/08_DRESS_UP_chloe_moriondo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "DRESS UP - JP Ver.",
+      "artist": "WINNER",
+      "has_synced": false,
+      "path": "select/09_DRESS_UP_-_JP_Ver._WINNER.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Dress Up",
+      "artist": "WINNER",
+      "has_synced": true,
+      "path": "select/10_Dress_Up_WINNER.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dress Up In You",
+      "artist": "Belle And Sebastian",
+      "has_synced": true,
+      "path": "select/11_Dress_Up_In_You_Belle_And_Sebastian.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "My Dress Up Darling",
+      "artist": "Freesoul",
+      "has_synced": true,
+      "path": "select/12_My_Dress_Up_Darling_Freesoul.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dress Up",
+      "artist": "JONG HYUN",
+      "has_synced": true,
+      "path": "select/13_Dress_Up_JONG_HYUN.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dress Up",
+      "artist": "JONGHYUN",
+      "has_synced": true,
+      "path": "select/14_Dress_Up_JONGHYUN.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Dress Up",
+      "artist": "MBLAQ",
+      "has_synced": true,
+      "path": "select/15_Dress_Up_MBLAQ.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Dress Up Doll",
+      "artist": "Baby Bugs",
+      "has_synced": false,
+      "path": "select/16_Dress_Up_Doll_Baby_Bugs.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Dress Up For You",
+      "artist": "The Technicolors",
+      "has_synced": false,
+      "path": "select/17_Dress_Up_For_You_The_Technicolors.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dress up",
+      "artist": "PLUE",
+      "has_synced": false,
+      "path": "select/pl_01_dress_up_PLUE.txt"
+    }
+  ]
+}
